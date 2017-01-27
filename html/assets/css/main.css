@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700);
 
 body {
     background: #00709a
@@ -14,7 +14,7 @@ body {
     margin-right: 3px;
     padding: 4px 8px;
     text-align: center;
-    width: 170px
+    width: 200px
 }
 
 #hovered-region span,
